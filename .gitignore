@@ -1,3 +1,9 @@
 .DS_Store
 */*_LO*
 assignments/.ipynb_checkpoints
+examples/*
+assignments/Assignment_2*
+assignments/Assignment_3*
+assignments/Assignment_4*
+assignments/Assignment_5*
+assignments/Assignment_6*
